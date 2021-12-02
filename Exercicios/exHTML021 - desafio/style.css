@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: otf;
+    src: url(idroid);
+}
+
+body {
+    text-align: center;
+    color: white;
+    background-color: #84E1AD;
+    text-indent: 30px;
+}
+
+header {
+    background-image: linear-gradient(to top,#1D643C,#3CD681);
+}
+
+header>nav {
+    text-align: left;
+    color: white;
+}
+
+main {
+    background-color: white;
+    color: black;
+}
+
+div#video {
+    background-color: #1A5C38;
+}
+
+footer#curiosidades {
+    background-color: #C5EBD6;
+}
